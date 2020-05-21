@@ -1,6 +1,8 @@
 # Play-Store-Review-Ratings-Scrapper
 play store reviews and ratings scrapper script [Python]
 
+(21 May 2020-Working)
+
 ### Available Filters
 
 (Most Relevent,Newest and Ratings ),
